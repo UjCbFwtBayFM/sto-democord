@@ -1,0 +1,14 @@
+		// Ba'ul
+                {
+
+                    FX Cfx_Lockboxfx_Cb33_Ship_Baul_Shieldfx
+                }
+
+		// Section 31 Vanity
+                {
+					FX Cfx_Lbfx_Cb30_Ship_Vanity_Item_Enginefx_Impulse
+
+					FX Cfx_Lbfx_Cb30_Ship_Vanity_Item_Enginefx_Warpfx
+
+					FX Cfx_Lbfx_Cb30_Ship_Vanity_Item_Shieldfx_Materialswap
+                }
