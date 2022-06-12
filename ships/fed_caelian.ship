@@ -1,0 +1,291 @@
+			Psubstitutecostume Cloneship_Fed_Fs5v_Type7
+			{
+				Scope Ships/Fed
+				Skeleton Ship_Fs5v_Skeleton
+				Species Ship_Fs5v_Skeleton
+				Costumetype Player
+				Muscle 20.000000
+				Height 20.000000
+				Stance Basic
+				Texwords Subnamestring NCC-82990
+				Texwords Namestring "U.S.S. Khonshu"
+				Colorskin  45, 27, 9, 255
+				Regioncategory All Unassigned
+
+				Part
+				{
+					Bone Fs5v_Saucer
+					Geometry Geo_Ship_Fed_Fs5v_Saucer_Type7
+					Material Ship_Mat_Fed_Typei_Type2_Fs5v
+					Color_0  255, 255, 255, 255
+					Color_1  227, 227, 227, 227
+					Color_2  36, 36, 36, 36
+					Color_3  0, 161, 255, 255
+					Colorlink All
+					Materiallink All
+				}
+
+				Part
+				{
+					Bone Fs5v_Hull
+					Geometry Geo_Ship_Fed_Fs5v_Hull_Type7
+					Material Ship_Mat_Fed_Typei_Type2_Fs5v
+					Color_0  255, 255, 255, 255
+					Color_1  227, 227, 227, 227
+					Color_2  36, 36, 36, 36
+					Color_3  0, 161, 255, 255
+					Colorlink All
+					Materiallink All
+				}
+
+				Part
+				{
+					Bone Fs5v_Nacellel
+					Geometry Geo_Ship_Fed_Fs5v_Nacellel_Type7
+					Material Ship_Mat_Fed_Typei_Type2_Fs5v
+					Color_0  255, 255, 255, 255
+					Color_1  227, 227, 227, 227
+					Color_2  36, 36, 36, 36
+					Color_3  0, 161, 255, 255
+					Colorlink All
+					Materiallink All
+				}
+
+				Part
+				{
+					Bone Fs5v_Naceller
+					Geometry Geo_Ship_Fed_Fs5v_Naceller_Type7
+					Material Ship_Mat_Fed_Typei_Type2_Fs5v
+					Color_0  255, 255, 255, 255
+					Color_1  227, 227, 227, 227
+					Color_2  36, 36, 36, 36
+					Color_3  0, 161, 255, 255
+					Colorlink All
+					Materiallink All
+				}
+
+				Part
+				{
+					Bone Fs5v_Stanchionl
+					Geometry Geo_Ship_Fed_Fs5v_Stanchionl_Type7
+					Material Ship_Mat_Fed_Typei_Type2_Fs5v
+					Color_0  255, 255, 255, 255
+					Color_1  227, 227, 227, 227
+					Color_2  36, 36, 36, 36
+					Color_3  0, 161, 255, 255
+					Colorlink All
+					Materiallink All
+				}
+
+				Part
+				{
+					Bone Fs5v_Stanchionr
+					Geometry Geo_Ship_Fed_Fs5v_Stanchionr_Type7
+					Material Ship_Mat_Fed_Typei_Type2_Fs5v
+					Color_0  255, 255, 255, 255
+					Color_1  227, 227, 227, 227
+					Color_2  36, 36, 36, 36
+					Color_3  0, 161, 255, 255
+					Colorlink All
+					Materiallink All
+				}
+
+				Part
+				{
+					Bone Fs5v_Saucerdecal
+					Geometry Geo_Ship_Fed_Fs5v_Saucerdecal_Type7
+					Material Ship_Fed_2409_Intel_Decals
+					Color_0  255, 255, 255, 255
+					Color_1  227, 227, 227, 227
+					Color_2  36, 36, 36, 36
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Fs5v_Saucerwinpods
+					Geometry Geo_Ship_Fed_Fs5v_Saucerwinpods_Type7v
+					Material Ship_Fed_Winpods_Typevesta
+					Color_0  255, 255, 255, 255
+					Color_1  227, 227, 227, 227
+					Color_2  36, 36, 36, 36
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Fs5v_Hulldecal
+					Geometry Geo_Ship_Fed_Fs5v_Hulldecal_Type7
+					Material Ship_Fed_2409_Intel_Decals
+					Color_0  255, 255, 255, 255
+					Color_1  227, 227, 227, 227
+					Color_2  36, 36, 36, 36
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Fs5v_Hullshield
+					Geometry Geo_Ship_Fed_Fs5v_Hullaa_Type7
+					Material Geo_Ship_Fed_Fs5v_Hullidname_Type3_Ship_Shields_Federation_Vesta_Type2
+					Color_0  255, 255, 255, 255
+					Color_1  227, 227, 227, 227
+					Color_2  36, 36, 36, 36
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Fs5v_Hullwinpods
+					Geometry Geo_Ship_Fed_Fs5v_Hullwinpods_Type7v
+					Material Ship_Fed_Winpods_Typevesta
+					Color_0  255, 255, 255, 255
+					Color_1  227, 227, 227, 227
+					Color_2  36, 36, 36, 36
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Fs5v_Hullidname
+					Geometry Geo_Ship_Fed_Fs5v_Hullidname_Type7
+					Material Ship_Fed_Idnamea
+					Patterntexture Ship_Fed_Texwords2_Type1
+					Color_0  255, 255, 255, 255
+					Color_1  227, 227, 227, 227
+					Color_2  36, 36, 36, 36
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Fs5v_Nacelleldecal
+					Geometry Geo_Ship_Fed_Fs5v_Nacelleldecal_Type7
+					Material Ship_Fed_2409_Intel_Decals
+					Color_0  255, 255, 255, 255
+					Color_1  227, 227, 227, 227
+					Color_2  36, 36, 36, 36
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Fs5v_Nacellerdecal
+					Geometry Geo_Ship_Fed_Fs5v_Nacellerdecal_Type7
+					Material Ship_Fed_2409_Intel_Decals
+					Color_0  255, 255, 255, 255
+					Color_1  227, 227, 227, 227
+					Color_2  36, 36, 36, 36
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Fs5v_Sauceridname
+					Geometry Geo_Ship_Fed_Fs5v_Sauceridname_Type7
+					Material Ship_Fed_Idnamea
+					Patterntexture Ship_Fed_Texwords2_Type1
+					Color_0  255, 255, 255, 255
+					Color_1  227, 227, 227, 227
+					Color_2  36, 36, 36, 36
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Fs5v_Sauceridnumber
+					Geometry Geo_Ship_Fed_Fs5v_Sauceridnumber_Type7
+					Material Ship_Fed_Idnumberb
+					Diffusetexture Ship_Fed_Idtextwordsb
+					Color_0  255, 255, 255, 255
+					Color_1  227, 227, 227, 227
+					Color_2  36, 36, 36, 36
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Fs5v_Sauceraa
+					Geometry Geo_Ship_Fed_Fs5v_Sauceraa_Type7
+					Material Geo_Ship_Fed_Fic1_Hullwinpods_Type1_Ship_Mat_Fed_Glass_Typeib
+					Color_0  255, 255, 255, 255
+					Color_1  227, 227, 227, 227
+					Color_2  36, 36, 36, 36
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Fs5v_Nacellelidnumber
+					Geometry Geo_Ship_Fed_Fs5v_Nacellelidnumber_Type7
+					Material Ship_Fed_Idnumberb
+					Diffusetexture Ship_Fed_Idtextwordsb
+					Color_0  255, 255, 255, 255
+					Color_1  227, 227, 227, 227
+					Color_2  36, 36, 36, 36
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Fs5v_Nacelleridnumber
+					Geometry Geo_Ship_Fed_Fs5v_Nacelleridnumber_Type7
+					Material Ship_Fed_Idnumberb
+					Diffusetexture Ship_Fed_Idtextwordsb
+					Color_0  255, 255, 255, 255
+					Color_1  227, 227, 227, 227
+					Color_2  36, 36, 36, 36
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Fs5v_Stanchionldecal
+					Geometry Geo_Ship_Fed_Fs5v_Stanchionldecal_Type7
+					Material Ship_Fed_2409_Intel_Decals
+					Color_0  255, 255, 255, 255
+					Color_1  227, 227, 227, 227
+					Color_2  36, 36, 36, 36
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Fs5v_Stanchionrdecal
+					Geometry Geo_Ship_Fed_Fs5v_Stanchionr_Decals_Type7
+					Material Ship_Fed_2409_Intel_Decals
+					Color_0  255, 255, 255, 255
+					Color_1  227, 227, 227, 227
+					Color_2  36, 36, 36, 36
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Fs5v_Hullidnumber
+					Geometry Geo_Ship_Fed_Fs5v_Hull_Idnumber_Type7
+					Material Ship_Fed_Idnumberb
+					Diffusetexture Ship_Fed_Idtextwordsb
+					Color_0  255, 255, 255, 255
+					Color_1  227, 227, 227, 227
+					Color_2  36, 36, 36, 36
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+				Loadedonclient 1
+			}

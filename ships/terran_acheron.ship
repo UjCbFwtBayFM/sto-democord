@@ -1,0 +1,225 @@
+			Psubstitutecostume Cloneship_Ter_Ted1_Type2
+			{
+				Skeleton Ship_Ted1_Skeleton
+				Species Ship_Ted1_Skeleton
+				Costumetype Player
+				Muscle 20.000000
+				Stance Basic
+				Texwords Namestring "I.S.S. Acheron"
+				Colorskin  240, 150, 120, 255
+				Regioncategory All Unassigned
+
+				Part
+				{
+					Bone Ted1_Naceller
+					Geometry Geo_Ship_Ter_Ted1_Naceller_Type2
+					Material Ship_Fed_Gc_Type8a_Imperial_Mirror_Gold
+					Patterntexture Trim_0_C
+					Color_0  255, 255, 255, 255
+					Color_1  255, 199, 102, 255
+					Color_2  236, 236, 236, 236
+					Color_3  0, 161, 255, 255
+					Colorlink All
+					Materiallink All
+				}
+
+				Part
+				{
+					Bone Ted1_Nacellel
+					Geometry Geo_Ship_Ter_Ted1_Nacellel_Type2
+					Material Ship_Fed_Gc_Type8a_Imperial_Mirror_Gold
+					Patterntexture Trim_0_C
+					Color_0  255, 255, 255, 255
+					Color_1  255, 199, 102, 255
+					Color_2  236, 236, 236, 236
+					Color_3  0, 161, 255, 255
+					Colorlink All
+					Materiallink All
+				}
+
+				Part
+				{
+					Bone Ted1_Hull
+					Geometry Geo_Ship_Ter_Ted1_Hull_Type2
+					Material Ship_Fed_Gc_Type8a_Imperial
+					Patterntexture Trim_0_C
+					Color_0  255, 255, 255, 255
+					Color_1  255, 199, 102, 255
+					Color_2  236, 236, 236, 236
+					Color_3  0, 161, 255, 255
+					Colorlink All
+					Materiallink All
+				}
+
+				Part
+				{
+					Bone Ted1_Missionpod
+					Geometry Geo_Ship_Ter_Ted1_Missionpod_Type2
+					Material Ship_Fed_Gc_Type8a_Imperial_Mirror_Gold
+					Patterntexture Trim_0_C
+					Color_0  255, 255, 255, 255
+					Color_1  255, 199, 102, 255
+					Color_2  236, 236, 236, 236
+					Color_3  0, 161, 255, 255
+					Colorlink All
+					Materiallink All
+				}
+
+				Part
+				{
+					Bone Ted1_Saucer
+					Geometry Geo_Ship_Ter_Ted1_Saucer_Type2
+					Material Ship_Fed_Gc_Type8a_Imperial_Mirror_Gold
+					Patterntexture Trim_0_C
+					Color_0  255, 255, 255, 255
+					Color_1  255, 199, 102, 255
+					Color_2  236, 236, 236, 236
+					Color_3  0, 161, 255, 255
+					Colorlink All
+					Materiallink All
+				}
+
+				Part
+				{
+					Bone Ted1_Hullwinpods
+					Geometry Geo_Ship_Ter_Ted1_Hullwinpods_Type2e
+					Material Ship_Ter_Winpods_Type1
+					Color_0  255, 255, 255, 255
+					Color_1  255, 199, 102, 255
+					Color_2  236, 236, 236, 236
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Ted1_Saucerwinpods
+					Geometry Geo_Ship_Ter_Ted1_Saucerwinpods_Type2e
+					Material Ship_Ter_Winpods_Type1
+					Color_0  255, 255, 255, 255
+					Color_1  255, 199, 102, 255
+					Color_2  236, 236, 236, 236
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Ted1_Nacelleldecal
+					Geometry Geo_Ship_Ter_Ted1_Nacelleldecal_Type2
+					Material Ship_Fed_2409_Decals
+					Color_0  255, 255, 255, 255
+					Color_1  255, 199, 102, 255
+					Color_2  236, 236, 236, 236
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Ted1_Nacellelaa
+					Geometry Geo_Ship_Ter_Ted1_Nacellelaa_Type2
+					Material Geo_Ship_Fed_Fc8_Nacellelaa_Type1_Ship_Mat_Fed_Dsc_Bussard_1
+					Color_0  255, 255, 255, 255
+					Color_1  255, 199, 102, 255
+					Color_2  236, 236, 236, 236
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Ted1_Nacellerdecal
+					Geometry Geo_Ship_Ter_Ted1_Nacellerdecal_Type2
+					Material Ship_Fed_2409_Decals
+					Color_0  255, 255, 255, 255
+					Color_1  255, 199, 102, 255
+					Color_2  236, 236, 236, 236
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Ted1_Nacelleraa
+					Geometry Geo_Ship_Ter_Ted1_Nacelleraa_Type2
+					Material Geo_Ship_Fed_Fc8_Nacellelaa_Type1_Ship_Mat_Fed_Dsc_Bussard_1
+					Color_0  255, 255, 255, 255
+					Color_1  255, 199, 102, 255
+					Color_2  236, 236, 236, 236
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Ted1_Missionpoddecal
+					Geometry Geo_Ship_Ter_Ted1_Missionpoddecal_Type2
+					Material Ship_Fed_2409_Decals
+					Color_0  255, 255, 255, 255
+					Color_1  255, 199, 102, 255
+					Color_2  236, 236, 236, 236
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Ted1_Sauceraa
+					Geometry Geo_Ship_Ter_Ted1_Saucerdecalbig_Type2
+					Material Ship_Fed_2409_Mirror_Decals_Small
+					Color_0  255, 255, 255, 255
+					Color_1  255, 199, 102, 255
+					Color_2  236, 236, 236, 236
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Ted1_Sauceridname
+					Geometry Geo_Ship_Ter_Ted1_Sauceridname_Type2
+					Material Ship_Fed_Idnamea
+					Patterntexture Ship_Fed_Texwords2_Type1
+					Color_0  255, 255, 255, 255
+					Color_1  255, 199, 102, 255
+					Color_2  236, 236, 236, 236
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Ted1_Hulldecal
+					Geometry Geo_Ship_Ter_Ted1_Hulldecal_Type2
+					Material Ship_Fed_2409_Decals
+					Color_0  255, 255, 255, 255
+					Color_1  255, 199, 102, 255
+					Color_2  236, 236, 236, 236
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Ted1_Hullaa
+					Geometry Geo_Ship_Ter_Ted1_Hulldecalbig_Type2
+					Material Ship_Fed_2409_Mirror_Decals_Small
+					Color_0  255, 255, 255, 255
+					Color_1  255, 199, 102, 255
+					Color_2  236, 236, 236, 236
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Ted1_Saucerdecal
+					Geometry Geo_Ship_Ter_Ted1_Saucerdecal_Type2
+					Color_0  255, 255, 255, 255
+					Color_1  255, 199, 102, 255
+					Color_2  236, 236, 236, 236
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+			}

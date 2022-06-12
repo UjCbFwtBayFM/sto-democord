@@ -1,0 +1,200 @@
+            Peffectivecostume Ship_Fek_Fb1_Player_Type2
+			{
+				Skeleton Ship_Fekplayer_Skeleton
+				Species Ship_Fekplayer_Skeleton
+				Costumetype Player
+				Muscle 20.000000
+				Height 5.000000
+				Stance Basic
+				Texwords Namestring Glethith
+				Texwords Subnamestring
+				Colorskin  240, 150, 120, 255
+				Regioncategory All Unassigned
+
+				Part
+				{
+					Bone Fekplayer_Hull
+					Geometry Geo_Ship_Fek_Fb1_Player_Hull_Type2
+					Material Ship_Mat_Fek_Type3_Tier6_Fb1
+					Color_0  255, 255, 255, 255
+					Color_1  87, 87, 87, 87
+					Color_2  116, 116, 116, 116
+					Color_3  0, 161, 255, 255
+					Colorlink All
+					Materiallink All
+				}
+
+				Part
+				{
+					Bone Fekplayer_Hullwinpods
+					Geometry Geo_Ship_Fek_Fb1_Player_Hullwinpods_Type2b
+					Material Geo_Ship_Fek_Fc2_Saucerwinpods_Type1_Ship_Fek_Winpods_Type2
+					Color_0  255, 255, 255, 255
+					Color_1  87, 87, 87, 87
+					Color_2  116, 116, 116, 116
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Fekplayer_Stanchionl
+					Geometry Geo_Ship_Fek_Fb1_Player_Stanchionl_Type2
+					Material Ship_Mat_Fek_Type3_Tier6_Fb1
+					Color_0  255, 255, 255, 255
+					Color_1  87, 87, 87, 87
+					Color_2  116, 116, 116, 116
+					Color_3  0, 161, 255, 255
+					Colorlink All
+					Materiallink All
+				}
+
+				Part
+				{
+					Bone Fekplayer_Nacellelb
+					Geometry Geo_Ship_Fek_Fb1_Player_Nacellelb_Type2
+					Material Ship_Mat_Fek_Type3_Tier6_Fb1
+					Color_0  255, 255, 255, 255
+					Color_1  87, 87, 87, 87
+					Color_2  116, 116, 116, 116
+					Color_3  0, 161, 255, 255
+					Colorlink All
+					Materiallink All
+				}
+
+				Part
+				{
+					Bone Fekplayer_Nacellelbwinpods
+					Geometry Geo_Ship_Fek_Fb1_Player_Nacellelbwinpods_Type2b
+					Material Geo_Ship_Fek_Fc2_Saucerwinpods_Type1_Ship_Fek_Winpods_Type2
+					Color_0  255, 255, 255, 255
+					Color_1  87, 87, 87, 87
+					Color_2  116, 116, 116, 116
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Fekplayer_Nacellel
+					Geometry Geo_Ship_Fek_Fb1_Player_Nacellel_Type2
+					Material Ship_Mat_Fek_Type3_Tier6_Fb1
+					Color_0  255, 255, 255, 255
+					Color_1  87, 87, 87, 87
+					Color_2  116, 116, 116, 116
+					Color_3  0, 161, 255, 255
+					Colorlink All
+					Materiallink All
+				}
+
+				Part
+				{
+					Bone Fekplayer_Nacellelaa
+					Geometry Geo_Ship_Fek_Fb1_Player_Nacellelaa_Type2
+					Material Geo_Ship_Fek_Fc2_Nacelleldecal_Type1_Ship_Mat_Fek_Grill
+					Color_0  255, 255, 255, 255
+					Color_1  87, 87, 87, 87
+					Color_2  116, 116, 116, 116
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Fekplayer_Stanchionr
+					Geometry Geo_Ship_Fek_Fb1_Player_Stanchionr_Type2
+					Material Ship_Mat_Fek_Type3_Tier6_Fb1
+					Color_0  255, 255, 255, 255
+					Color_1  87, 87, 87, 87
+					Color_2  116, 116, 116, 116
+					Color_3  0, 161, 255, 255
+					Colorlink All
+					Materiallink All
+				}
+
+				Part
+				{
+					Bone Fekplayer_Nacellerb
+					Geometry Geo_Ship_Fek_Fb1_Player_Nacellerb_Type2
+					Material Ship_Mat_Fek_Type3_Tier6_Fb1
+					Color_0  255, 255, 255, 255
+					Color_1  87, 87, 87, 87
+					Color_2  116, 116, 116, 116
+					Color_3  0, 161, 255, 255
+					Colorlink All
+					Materiallink All
+				}
+
+				Part
+				{
+					Bone Fekplayer_Nacellerbwinpods
+					Geometry Geo_Ship_Fek_Fb1_Player_Nacellerbwinpods_Type2b
+					Material Geo_Ship_Fek_Fc2_Saucerwinpods_Type1_Ship_Fek_Winpods_Type2
+					Color_0  255, 255, 255, 255
+					Color_1  87, 87, 87, 87
+					Color_2  116, 116, 116, 116
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Fekplayer_Naceller
+					Geometry Geo_Ship_Fek_Fb1_Player_Naceller_Type2
+					Material Ship_Mat_Fek_Type3_Tier6_Fb1
+					Color_0  255, 255, 255, 255
+					Color_1  87, 87, 87, 87
+					Color_2  116, 116, 116, 116
+					Color_3  0, 161, 255, 255
+					Colorlink All
+					Materiallink All
+				}
+
+				Part
+				{
+					Bone Fekplayer_Hulldecal
+					Geometry Geo_Ship_Fek_Fb1_Player_Hulldecal_Type2
+					Material Geo_Ship_Fek_Fd2_Missionpoddecal_Type1_Ship_Mat_Fek_Dreadnought_Fire
+					Color_0  255, 255, 255, 255
+					Color_1  87, 87, 87, 87
+					Color_2  116, 116, 116, 116
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Fekplayer_Nacelleldecal
+					Geometry Geo_Ship_Fek_Fb1_Player_Nacelleldecal_Type2
+					Material Geo_Ship_Fek_Fd2_Missionpoddecal_Type1_Ship_Mat_Fek_Dreadnought_Fire
+					Color_0  255, 255, 255, 255
+					Color_1  87, 87, 87, 87
+					Color_2  116, 116, 116, 116
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Fekplayer_Nacellerdecal
+					Geometry Geo_Ship_Fek_Fb1_Player_Nacellerdecal_Type2
+					Material Geo_Ship_Fek_Fd2_Missionpoddecal_Type1_Ship_Mat_Fek_Dreadnought_Fire
+					Color_0  255, 255, 255, 255
+					Color_1  87, 87, 87, 87
+					Color_2  116, 116, 116, 116
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+
+				Part
+				{
+					Bone Fekplayer_Nacelleraa
+					Geometry Geo_Ship_Fek_Fb1_Player_Nacelleraa_Type2
+					Material Geo_Ship_Fek_Fc2_Nacelleldecal_Type1_Ship_Mat_Fek_Grill
+					Color_0  255, 255, 255, 255
+					Color_1  87, 87, 87, 87
+					Color_2  116, 116, 116, 116
+					Color_3  0, 161, 255, 255
+					Colorlink All
+				}
+			}
